@@ -1,0 +1,22 @@
+C = 0.0012949537583688095
+
+parameters
+Gamma_tilde = 0.00017657478681668668
+sigma_tilde = 0.011069042316258352
+p_air_tilde = 0.4975861774943064
+alpha = 0.157
+beta = 0.954
+
+brackets_plus
+(np.float64(0.016203240649113423), np.float64(0.016403280657114824))
+
+brackets_minus
+(np.float64(-0.019603920785137174), np.float64(-0.01940388077713584))
+
+Dimensionless results
+DeltaT_plus_1 = 0.01631419981522921
+DeltaT_minus_1 = -0.019433518837876786
+
+Check
+equation_abs(DeltaT_plus)  = -6.776263578034403e-21
+equation_abs(DeltaT_minus) = 2.710505431213761e-20

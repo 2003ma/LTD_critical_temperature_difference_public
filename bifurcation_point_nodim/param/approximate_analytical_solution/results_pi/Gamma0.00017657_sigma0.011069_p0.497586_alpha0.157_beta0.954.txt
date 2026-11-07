@@ -1,0 +1,7 @@
+alpha: 0.157
+beta: 0.954
+Gamma_tilde: 0.00017657
+sigma_tilde: 0.011069
+p_air_tilde: 0.497586
+deltaT_c_tilde_plus: 0.014896
+deltaT_c_tilde_minus: -0.018003
