@@ -1,3 +1,11 @@
+## Related Paper
+
+This repository contains the code and data accompanying the following paper:
+
+Momoko Amemiya and Yuki Izumida, “[Determining Critical Temperature Differences of Low-Temperature-Differential Stirling Engines: Nonlinear Dynamics Approach](https://arxiv.org/abs/2607.26539),” arXiv:2607.26539 (2026).
+
+Figure, table, and equation numbers below refer to this paper.
+
 ## Project Structure
 
 ```text
