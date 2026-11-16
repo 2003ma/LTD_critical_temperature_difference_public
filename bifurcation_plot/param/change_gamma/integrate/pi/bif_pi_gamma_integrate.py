@@ -73,7 +73,7 @@ def first_stopped_delta_t(df, experiment_id, w_tol=1e-5):
     stopped_dT = dT.loc[mask]
 
     if stopped_dT.empty:
-        raise ValueError(f"{experiment_id}: 停止相当の点がありません")
+        raise ValueError(f"{experiment_id}: No data point meets the stopping criterion")
 
     return float(stopped_dT.iloc[0])
 

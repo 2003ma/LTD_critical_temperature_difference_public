@@ -1,4 +1,4 @@
-No load（平均に使った6点）:
+No load (six points used in the average):
 20200310-2: 6.29964 K
 20200310-3: 6.36035 K
 20200310-5: 6.08186 K
